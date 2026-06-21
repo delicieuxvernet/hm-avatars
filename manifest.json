@@ -1,0 +1,772 @@
+{
+ "base_url": "https://cdn.jsdelivr.net/gh/delicieuxvernet/hm-avatars@main/",
+ "note": "Avatars photoreal 8/10 generes IA (Pollinations/Flux), buste, fond gris studio. Pour le -futur toi- personnalise (meme personne avant/apres) il faut une cle img2img (Flux Kontext/Nano Banana).",
+ "grid": [
+  {
+   "file": "av_f_w20_m25.jpg",
+   "sexe": "femme",
+   "teint": "clair",
+   "gras": 20,
+   "muscle": 25
+  },
+  {
+   "file": "av_f_w20_m55.jpg",
+   "sexe": "femme",
+   "teint": "clair",
+   "gras": 20,
+   "muscle": 55
+  },
+  {
+   "file": "av_f_w20_m85.jpg",
+   "sexe": "femme",
+   "teint": "clair",
+   "gras": 20,
+   "muscle": 85
+  },
+  {
+   "file": "av_f_w45_m25.jpg",
+   "sexe": "femme",
+   "teint": "clair",
+   "gras": 45,
+   "muscle": 25
+  },
+  {
+   "file": "av_f_w45_m55.jpg",
+   "sexe": "femme",
+   "teint": "clair",
+   "gras": 45,
+   "muscle": 55
+  },
+  {
+   "file": "av_f_w45_m85.jpg",
+   "sexe": "femme",
+   "teint": "clair",
+   "gras": 45,
+   "muscle": 85
+  },
+  {
+   "file": "av_f_w68_m25.jpg",
+   "sexe": "femme",
+   "teint": "clair",
+   "gras": 68,
+   "muscle": 25
+  },
+  {
+   "file": "av_f_w68_m55.jpg",
+   "sexe": "femme",
+   "teint": "clair",
+   "gras": 68,
+   "muscle": 55
+  },
+  {
+   "file": "av_f_w68_m85.jpg",
+   "sexe": "femme",
+   "teint": "clair",
+   "gras": 68,
+   "muscle": 85
+  },
+  {
+   "file": "av_f_w90_m25.jpg",
+   "sexe": "femme",
+   "teint": "clair",
+   "gras": 90,
+   "muscle": 25
+  },
+  {
+   "file": "av_f_w90_m55.jpg",
+   "sexe": "femme",
+   "teint": "clair",
+   "gras": 90,
+   "muscle": 55
+  },
+  {
+   "file": "av_f_w90_m85.jpg",
+   "sexe": "femme",
+   "teint": "clair",
+   "gras": 90,
+   "muscle": 85
+  },
+  {
+   "file": "av_m_w20_m25.jpg",
+   "sexe": "homme",
+   "teint": "clair",
+   "gras": 20,
+   "muscle": 25
+  },
+  {
+   "file": "av_m_w20_m55.jpg",
+   "sexe": "homme",
+   "teint": "clair",
+   "gras": 20,
+   "muscle": 55
+  },
+  {
+   "file": "av_m_w20_m85.jpg",
+   "sexe": "homme",
+   "teint": "clair",
+   "gras": 20,
+   "muscle": 85
+  },
+  {
+   "file": "av_m_w45_m25.jpg",
+   "sexe": "homme",
+   "teint": "clair",
+   "gras": 45,
+   "muscle": 25
+  },
+  {
+   "file": "av_m_w45_m55.jpg",
+   "sexe": "homme",
+   "teint": "clair",
+   "gras": 45,
+   "muscle": 55
+  },
+  {
+   "file": "av_m_w45_m85.jpg",
+   "sexe": "homme",
+   "teint": "clair",
+   "gras": 45,
+   "muscle": 85
+  },
+  {
+   "file": "av_m_w68_m25.jpg",
+   "sexe": "homme",
+   "teint": "clair",
+   "gras": 68,
+   "muscle": 25
+  },
+  {
+   "file": "av_m_w68_m55.jpg",
+   "sexe": "homme",
+   "teint": "clair",
+   "gras": 68,
+   "muscle": 55
+  },
+  {
+   "file": "av_m_w68_m85.jpg",
+   "sexe": "homme",
+   "teint": "clair",
+   "gras": 68,
+   "muscle": 85
+  },
+  {
+   "file": "av_m_w90_m25.jpg",
+   "sexe": "homme",
+   "teint": "clair",
+   "gras": 90,
+   "muscle": 25
+  },
+  {
+   "file": "av_m_w90_m55.jpg",
+   "sexe": "homme",
+   "teint": "clair",
+   "gras": 90,
+   "muscle": 55
+  },
+  {
+   "file": "av_m_w90_m85.jpg",
+   "sexe": "homme",
+   "teint": "clair",
+   "gras": 90,
+   "muscle": 85
+  },
+  {
+   "file": "avb_f_w20_m25.jpg",
+   "sexe": "femme",
+   "teint": "fonce",
+   "gras": 20,
+   "muscle": 25
+  },
+  {
+   "file": "avb_f_w20_m55.jpg",
+   "sexe": "femme",
+   "teint": "fonce",
+   "gras": 20,
+   "muscle": 55
+  },
+  {
+   "file": "avb_f_w20_m85.jpg",
+   "sexe": "femme",
+   "teint": "fonce",
+   "gras": 20,
+   "muscle": 85
+  },
+  {
+   "file": "avb_f_w45_m25.jpg",
+   "sexe": "femme",
+   "teint": "fonce",
+   "gras": 45,
+   "muscle": 25
+  },
+  {
+   "file": "avb_f_w45_m55.jpg",
+   "sexe": "femme",
+   "teint": "fonce",
+   "gras": 45,
+   "muscle": 55
+  },
+  {
+   "file": "avb_f_w45_m85.jpg",
+   "sexe": "femme",
+   "teint": "fonce",
+   "gras": 45,
+   "muscle": 85
+  },
+  {
+   "file": "avb_f_w68_m25.jpg",
+   "sexe": "femme",
+   "teint": "fonce",
+   "gras": 68,
+   "muscle": 25
+  },
+  {
+   "file": "avb_f_w68_m55.jpg",
+   "sexe": "femme",
+   "teint": "fonce",
+   "gras": 68,
+   "muscle": 55
+  },
+  {
+   "file": "avb_f_w68_m85.jpg",
+   "sexe": "femme",
+   "teint": "fonce",
+   "gras": 68,
+   "muscle": 85
+  },
+  {
+   "file": "avb_f_w90_m25.jpg",
+   "sexe": "femme",
+   "teint": "fonce",
+   "gras": 90,
+   "muscle": 25
+  },
+  {
+   "file": "avb_f_w90_m55.jpg",
+   "sexe": "femme",
+   "teint": "fonce",
+   "gras": 90,
+   "muscle": 55
+  },
+  {
+   "file": "avb_f_w90_m85.jpg",
+   "sexe": "femme",
+   "teint": "fonce",
+   "gras": 90,
+   "muscle": 85
+  },
+  {
+   "file": "avb_m_w20_m25.jpg",
+   "sexe": "homme",
+   "teint": "fonce",
+   "gras": 20,
+   "muscle": 25
+  },
+  {
+   "file": "avb_m_w20_m55.jpg",
+   "sexe": "homme",
+   "teint": "fonce",
+   "gras": 20,
+   "muscle": 55
+  },
+  {
+   "file": "avb_m_w20_m85.jpg",
+   "sexe": "homme",
+   "teint": "fonce",
+   "gras": 20,
+   "muscle": 85
+  },
+  {
+   "file": "avb_m_w45_m25.jpg",
+   "sexe": "homme",
+   "teint": "fonce",
+   "gras": 45,
+   "muscle": 25
+  },
+  {
+   "file": "avb_m_w45_m55.jpg",
+   "sexe": "homme",
+   "teint": "fonce",
+   "gras": 45,
+   "muscle": 55
+  },
+  {
+   "file": "avb_m_w45_m85.jpg",
+   "sexe": "homme",
+   "teint": "fonce",
+   "gras": 45,
+   "muscle": 85
+  },
+  {
+   "file": "avb_m_w68_m25.jpg",
+   "sexe": "homme",
+   "teint": "fonce",
+   "gras": 68,
+   "muscle": 25
+  },
+  {
+   "file": "avb_m_w68_m55.jpg",
+   "sexe": "homme",
+   "teint": "fonce",
+   "gras": 68,
+   "muscle": 55
+  },
+  {
+   "file": "avb_m_w68_m85.jpg",
+   "sexe": "homme",
+   "teint": "fonce",
+   "gras": 68,
+   "muscle": 85
+  },
+  {
+   "file": "avb_m_w90_m25.jpg",
+   "sexe": "homme",
+   "teint": "fonce",
+   "gras": 90,
+   "muscle": 25
+  },
+  {
+   "file": "avb_m_w90_m55.jpg",
+   "sexe": "homme",
+   "teint": "fonce",
+   "gras": 90,
+   "muscle": 55
+  },
+  {
+   "file": "avb_m_w90_m85.jpg",
+   "sexe": "homme",
+   "teint": "fonce",
+   "gras": 90,
+   "muscle": 85
+  },
+  {
+   "file": "ave_f_w20_m25.jpg",
+   "sexe": "femme",
+   "teint": "asie_est",
+   "gras": 20,
+   "muscle": 25
+  },
+  {
+   "file": "ave_f_w20_m55.jpg",
+   "sexe": "femme",
+   "teint": "asie_est",
+   "gras": 20,
+   "muscle": 55
+  },
+  {
+   "file": "ave_f_w20_m85.jpg",
+   "sexe": "femme",
+   "teint": "asie_est",
+   "gras": 20,
+   "muscle": 85
+  },
+  {
+   "file": "ave_f_w45_m25.jpg",
+   "sexe": "femme",
+   "teint": "asie_est",
+   "gras": 45,
+   "muscle": 25
+  },
+  {
+   "file": "ave_f_w45_m55.jpg",
+   "sexe": "femme",
+   "teint": "asie_est",
+   "gras": 45,
+   "muscle": 55
+  },
+  {
+   "file": "ave_f_w45_m85.jpg",
+   "sexe": "femme",
+   "teint": "asie_est",
+   "gras": 45,
+   "muscle": 85
+  },
+  {
+   "file": "ave_f_w68_m25.jpg",
+   "sexe": "femme",
+   "teint": "asie_est",
+   "gras": 68,
+   "muscle": 25
+  },
+  {
+   "file": "ave_f_w68_m55.jpg",
+   "sexe": "femme",
+   "teint": "asie_est",
+   "gras": 68,
+   "muscle": 55
+  },
+  {
+   "file": "ave_f_w68_m85.jpg",
+   "sexe": "femme",
+   "teint": "asie_est",
+   "gras": 68,
+   "muscle": 85
+  },
+  {
+   "file": "ave_f_w90_m25.jpg",
+   "sexe": "femme",
+   "teint": "asie_est",
+   "gras": 90,
+   "muscle": 25
+  },
+  {
+   "file": "ave_f_w90_m55.jpg",
+   "sexe": "femme",
+   "teint": "asie_est",
+   "gras": 90,
+   "muscle": 55
+  },
+  {
+   "file": "ave_f_w90_m85.jpg",
+   "sexe": "femme",
+   "teint": "asie_est",
+   "gras": 90,
+   "muscle": 85
+  },
+  {
+   "file": "ave_m_w20_m25.jpg",
+   "sexe": "homme",
+   "teint": "asie_est",
+   "gras": 20,
+   "muscle": 25
+  },
+  {
+   "file": "ave_m_w20_m55.jpg",
+   "sexe": "homme",
+   "teint": "asie_est",
+   "gras": 20,
+   "muscle": 55
+  },
+  {
+   "file": "ave_m_w20_m85.jpg",
+   "sexe": "homme",
+   "teint": "asie_est",
+   "gras": 20,
+   "muscle": 85
+  },
+  {
+   "file": "ave_m_w45_m25.jpg",
+   "sexe": "homme",
+   "teint": "asie_est",
+   "gras": 45,
+   "muscle": 25
+  },
+  {
+   "file": "ave_m_w45_m55.jpg",
+   "sexe": "homme",
+   "teint": "asie_est",
+   "gras": 45,
+   "muscle": 55
+  },
+  {
+   "file": "ave_m_w45_m85.jpg",
+   "sexe": "homme",
+   "teint": "asie_est",
+   "gras": 45,
+   "muscle": 85
+  },
+  {
+   "file": "ave_m_w68_m25.jpg",
+   "sexe": "homme",
+   "teint": "asie_est",
+   "gras": 68,
+   "muscle": 25
+  },
+  {
+   "file": "ave_m_w68_m55.jpg",
+   "sexe": "homme",
+   "teint": "asie_est",
+   "gras": 68,
+   "muscle": 55
+  },
+  {
+   "file": "ave_m_w68_m85.jpg",
+   "sexe": "homme",
+   "teint": "asie_est",
+   "gras": 68,
+   "muscle": 85
+  },
+  {
+   "file": "ave_m_w90_m25.jpg",
+   "sexe": "homme",
+   "teint": "asie_est",
+   "gras": 90,
+   "muscle": 25
+  },
+  {
+   "file": "ave_m_w90_m55.jpg",
+   "sexe": "homme",
+   "teint": "asie_est",
+   "gras": 90,
+   "muscle": 55
+  },
+  {
+   "file": "ave_m_w90_m85.jpg",
+   "sexe": "homme",
+   "teint": "asie_est",
+   "gras": 90,
+   "muscle": 85
+  },
+  {
+   "file": "avt_f_w20_m25.jpg",
+   "sexe": "femme",
+   "teint": "olive",
+   "gras": 20,
+   "muscle": 25
+  },
+  {
+   "file": "avt_f_w20_m55.jpg",
+   "sexe": "femme",
+   "teint": "olive",
+   "gras": 20,
+   "muscle": 55
+  },
+  {
+   "file": "avt_f_w20_m85.jpg",
+   "sexe": "femme",
+   "teint": "olive",
+   "gras": 20,
+   "muscle": 85
+  },
+  {
+   "file": "avt_f_w45_m25.jpg",
+   "sexe": "femme",
+   "teint": "olive",
+   "gras": 45,
+   "muscle": 25
+  },
+  {
+   "file": "avt_f_w45_m55.jpg",
+   "sexe": "femme",
+   "teint": "olive",
+   "gras": 45,
+   "muscle": 55
+  },
+  {
+   "file": "avt_f_w45_m85.jpg",
+   "sexe": "femme",
+   "teint": "olive",
+   "gras": 45,
+   "muscle": 85
+  },
+  {
+   "file": "avt_f_w68_m25.jpg",
+   "sexe": "femme",
+   "teint": "olive",
+   "gras": 68,
+   "muscle": 25
+  },
+  {
+   "file": "avt_f_w68_m55.jpg",
+   "sexe": "femme",
+   "teint": "olive",
+   "gras": 68,
+   "muscle": 55
+  },
+  {
+   "file": "avt_f_w68_m85.jpg",
+   "sexe": "femme",
+   "teint": "olive",
+   "gras": 68,
+   "muscle": 85
+  },
+  {
+   "file": "avt_f_w90_m25.jpg",
+   "sexe": "femme",
+   "teint": "olive",
+   "gras": 90,
+   "muscle": 25
+  },
+  {
+   "file": "avt_f_w90_m55.jpg",
+   "sexe": "femme",
+   "teint": "olive",
+   "gras": 90,
+   "muscle": 55
+  },
+  {
+   "file": "avt_f_w90_m85.jpg",
+   "sexe": "femme",
+   "teint": "olive",
+   "gras": 90,
+   "muscle": 85
+  },
+  {
+   "file": "avt_m_w20_m25.jpg",
+   "sexe": "homme",
+   "teint": "olive",
+   "gras": 20,
+   "muscle": 25
+  },
+  {
+   "file": "avt_m_w20_m55.jpg",
+   "sexe": "homme",
+   "teint": "olive",
+   "gras": 20,
+   "muscle": 55
+  },
+  {
+   "file": "avt_m_w20_m85.jpg",
+   "sexe": "homme",
+   "teint": "olive",
+   "gras": 20,
+   "muscle": 85
+  },
+  {
+   "file": "avt_m_w45_m25.jpg",
+   "sexe": "homme",
+   "teint": "olive",
+   "gras": 45,
+   "muscle": 25
+  },
+  {
+   "file": "avt_m_w45_m55.jpg",
+   "sexe": "homme",
+   "teint": "olive",
+   "gras": 45,
+   "muscle": 55
+  },
+  {
+   "file": "avt_m_w45_m85.jpg",
+   "sexe": "homme",
+   "teint": "olive",
+   "gras": 45,
+   "muscle": 85
+  },
+  {
+   "file": "avt_m_w68_m25.jpg",
+   "sexe": "homme",
+   "teint": "olive",
+   "gras": 68,
+   "muscle": 25
+  },
+  {
+   "file": "avt_m_w68_m55.jpg",
+   "sexe": "homme",
+   "teint": "olive",
+   "gras": 68,
+   "muscle": 55
+  },
+  {
+   "file": "avt_m_w68_m85.jpg",
+   "sexe": "homme",
+   "teint": "olive",
+   "gras": 68,
+   "muscle": 85
+  },
+  {
+   "file": "avt_m_w90_m25.jpg",
+   "sexe": "homme",
+   "teint": "olive",
+   "gras": 90,
+   "muscle": 25
+  },
+  {
+   "file": "avt_m_w90_m55.jpg",
+   "sexe": "homme",
+   "teint": "olive",
+   "gras": 90,
+   "muscle": 55
+  },
+  {
+   "file": "avt_m_w90_m85.jpg",
+   "sexe": "homme",
+   "teint": "olive",
+   "gras": 90,
+   "muscle": 85
+  }
+ ],
+ "diversity": [
+  {
+   "file": "avd_f_fit_black.jpg"
+  },
+  {
+   "file": "avd_f_fit_eastasian.jpg"
+  },
+  {
+   "file": "avd_f_fit_latino.jpg"
+  },
+  {
+   "file": "avd_f_fit_mideast.jpg"
+  },
+  {
+   "file": "avd_f_fit_southasian.jpg"
+  },
+  {
+   "file": "avd_f_soft_black.jpg"
+  },
+  {
+   "file": "avd_f_soft_eastasian.jpg"
+  },
+  {
+   "file": "avd_f_soft_latino.jpg"
+  },
+  {
+   "file": "avd_f_soft_mideast.jpg"
+  },
+  {
+   "file": "avd_f_soft_southasian.jpg"
+  },
+  {
+   "file": "avd_m_fit_black.jpg"
+  },
+  {
+   "file": "avd_m_fit_eastasian.jpg"
+  },
+  {
+   "file": "avd_m_fit_latino.jpg"
+  },
+  {
+   "file": "avd_m_fit_mideast.jpg"
+  },
+  {
+   "file": "avd_m_fit_southasian.jpg"
+  },
+  {
+   "file": "avd_m_soft_black.jpg"
+  },
+  {
+   "file": "avd_m_soft_eastasian.jpg"
+  },
+  {
+   "file": "avd_m_soft_latino.jpg"
+  },
+  {
+   "file": "avd_m_soft_mideast.jpg"
+  },
+  {
+   "file": "avd_m_soft_southasian.jpg"
+  }
+ ],
+ "age": [
+  {
+   "file": "avg_f_black_fit.jpg"
+  },
+  {
+   "file": "avg_f_black_soft.jpg"
+  },
+  {
+   "file": "avg_f_white_fit.jpg"
+  },
+  {
+   "file": "avg_f_white_soft.jpg"
+  },
+  {
+   "file": "avg_m_black_fit.jpg"
+  },
+  {
+   "file": "avg_m_black_soft.jpg"
+  },
+  {
+   "file": "avg_m_white_fit.jpg"
+  },
+  {
+   "file": "avg_m_white_soft.jpg"
+  }
+ ],
+ "counts": {
+  "grid": 96,
+  "diversity": 20,
+  "age": 8,
+  "total": 124
+ }
+}
