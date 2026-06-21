@@ -1,6 +1,6 @@
 {
  "base_url": "https://cdn.jsdelivr.net/gh/delicieuxvernet/hm-avatars@main/",
- "note": "Avatars photoreal 8/10 (Pollinations/Flux), buste, fond gris studio. Categories: grid morpho x4 teintes, diversity ethnies, age, transformation pairs (before/after meme personne ~rough), goal projections (mincir/tonifier/muscler).",
+ "note": "Avatars photoreal 8/10 (Pollinations/Flux), buste, fond gris studio.",
  "categories": {
   "grid": [
    {
@@ -738,7 +738,7 @@
     "file": "avd_m_soft_southasian.jpg"
    }
   ],
-  "age": [
+  "age60": [
    {
     "file": "avg_f_black_fit.jpg"
    },
@@ -762,6 +762,44 @@
    },
    {
     "file": "avg_m_white_soft.jpg"
+   }
+  ],
+  "age_brackets": [
+   {
+    "file": "agebr_f_fit_30.jpg"
+   },
+   {
+    "file": "agebr_f_fit_45.jpg"
+   },
+   {
+    "file": "agebr_f_fit_60.jpg"
+   },
+   {
+    "file": "agebr_f_soft_30.jpg"
+   },
+   {
+    "file": "agebr_f_soft_45.jpg"
+   },
+   {
+    "file": "agebr_f_soft_60.jpg"
+   },
+   {
+    "file": "agebr_m_fit_30.jpg"
+   },
+   {
+    "file": "agebr_m_fit_45.jpg"
+   },
+   {
+    "file": "agebr_m_fit_60.jpg"
+   },
+   {
+    "file": "agebr_m_soft_30.jpg"
+   },
+   {
+    "file": "agebr_m_soft_45.jpg"
+   },
+   {
+    "file": "agebr_m_soft_60.jpg"
    }
   ],
   "pairs": [
@@ -812,6 +850,54 @@
    },
    {
     "file": "pairB_m_olive_before.jpg"
+   },
+   {
+    "file": "pairC_f_asie_after.jpg"
+   },
+   {
+    "file": "pairC_f_asie_before.jpg"
+   },
+   {
+    "file": "pairC_f_clair_after.jpg"
+   },
+   {
+    "file": "pairC_f_clair_before.jpg"
+   },
+   {
+    "file": "pairC_f_fonce_after.jpg"
+   },
+   {
+    "file": "pairC_f_fonce_before.jpg"
+   },
+   {
+    "file": "pairC_f_olive_after.jpg"
+   },
+   {
+    "file": "pairC_f_olive_before.jpg"
+   },
+   {
+    "file": "pairC_m_asie_after.jpg"
+   },
+   {
+    "file": "pairC_m_asie_before.jpg"
+   },
+   {
+    "file": "pairC_m_clair_after.jpg"
+   },
+   {
+    "file": "pairC_m_clair_before.jpg"
+   },
+   {
+    "file": "pairC_m_fonce_after.jpg"
+   },
+   {
+    "file": "pairC_m_fonce_before.jpg"
+   },
+   {
+    "file": "pairC_m_olive_after.jpg"
+   },
+   {
+    "file": "pairC_m_olive_before.jpg"
    },
    {
     "file": "pair_f_asie_after.jpg"
@@ -959,14 +1045,54 @@
    {
     "file": "goal_olive_m_toned.jpg"
    }
+  ],
+  "skinny_bulk": [
+   {
+    "file": "skinny_clair_f_before.jpg"
+   },
+   {
+    "file": "skinny_clair_f_muscular.jpg"
+   },
+   {
+    "file": "skinny_clair_f_toned.jpg"
+   },
+   {
+    "file": "skinny_clair_m_before.jpg"
+   },
+   {
+    "file": "skinny_clair_m_muscular.jpg"
+   },
+   {
+    "file": "skinny_clair_m_toned.jpg"
+   },
+   {
+    "file": "skinny_fonce_f_before.jpg"
+   },
+   {
+    "file": "skinny_fonce_f_muscular.jpg"
+   },
+   {
+    "file": "skinny_fonce_f_toned.jpg"
+   },
+   {
+    "file": "skinny_fonce_m_before.jpg"
+   },
+   {
+    "file": "skinny_fonce_m_muscular.jpg"
+   },
+   {
+    "file": "skinny_fonce_m_toned.jpg"
+   }
   ]
  },
  "counts": {
   "grid": 96,
   "diversity": 20,
-  "age": 8,
-  "pairs": 32,
+  "age60": 8,
+  "age_brackets": 12,
+  "pairs": 48,
   "goals": 32,
-  "total": 188
+  "skinny_bulk": 12,
+  "total": 228
  }
 }
